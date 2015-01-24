@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>
+        BASIC blog excerpts feed    </title>
+        <link href="/blog/excerpts.xml" rel="self" />
+    
+        <link href="/"/>
+    
+        
+    <updated>2015-01-18T18:55:12Z</updated>
+
+    <id>/blog/excerpts.xml/</id>
+
+            <entry>
+            <title type="html">hyde</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/2015/01/18.html"/>
+            <updated>2015-01-18T12:01:00Z</updated>
+            <published>2015-01-18T12:01:00Z</published>
+            <id>/blog/2015/01/18.html</id>
+                        <category   scheme="/blog/tags"
+                        term="hyde"
+                        label="Hyde" />
+                        <category   scheme="/blog/tags"
+                        term="website"
+                        label="Website" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Dark Meadows&#34; src=&#34;/media/images/darkMeadowsSmall.png&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;Will this show&amp;nbsp;up??&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">Novel</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/2015/01/17.html"/>
+            <updated>2015-01-17T12:01:00Z</updated>
+            <published>2015-01-17T12:01:00Z</published>
+            <id>/blog/2015/01/17.html</id>
+                        <category   scheme="/blog/tags"
+                        term="novel"
+                        label="Novel" />
+                        <category   scheme="/blog/tags"
+                        term="writing"
+                        label="Writing" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Dark Meadows&#34; src=&#34;/media/images/darkMeadowsSmall.png&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;Hit a snag. Supposed to have something for &lt;span class=&#34;caps&#34;&gt;DLR&lt;/span&gt; by February&amp;nbsp;14.&lt;/p&gt;            </content>
+        </entry>
+            <entry>
+            <title type="html">An Indifferent Post</title>
+            <author><name>Lakshmi Vyasarajan</name></author>
+            <link href="/blog/new-post.html"/>
+            <updated>2014-12-13T16:39:00Z</updated>
+            <published>2014-12-13T16:39:00Z</published>
+            <id>/blog/new-post.html</id>
+                        <category   scheme="/blog/tags"
+                        term="indifferent"
+                        label="Indifferent" />
+                        <category   scheme="/blog/tags"
+                        term="thoughts"
+                        label="Thoughts" />
+            
+            <content type="html">
+                &lt;p&gt;&lt;img alt=&#34;Two Kits&#34; src=&#34;/media/images/twoKits.png&#34; /&gt;&lt;/p&gt;
+                &lt;p&gt;That sister of mine thinks &lt;a href=&#34;http://dottyellipsis.com/&#34; title=&#34;Dotty Ellipsis&#34;&gt;her blog&lt;/a&gt; is so great. &lt;span class=&#34;caps&#34;&gt;MY&lt;/span&gt; blog will be even better. And yet I am caught up in the eternal struggle&amp;#8230; between good &lt;span class=&#34;amp&#34;&gt;&amp;amp;&lt;/span&gt; evil, human &lt;span class=&#34;amp&#34;&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;porcine&amp;#8230;&lt;/p&gt;            </content>
+        </entry>
+    </feed>
